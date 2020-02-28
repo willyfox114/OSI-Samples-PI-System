@@ -1,7 +1,7 @@
 """ This script writes values through the PI Web API.
 
 This python script requires some pre-requisites:
-1.  A back-end server with PI WEB API with CORS enabled.
+1.  A back-end server with PI WEB API with CORS enabled. 
 """
 
 import json
